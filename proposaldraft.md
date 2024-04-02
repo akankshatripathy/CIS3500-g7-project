@@ -8,6 +8,8 @@ Akanksha Tripathy, Ruth Tilahun, Tianyi Wu, Yola Yan
 
 [Describe the problem that your Chrome Extension will solve. What are the pain points that users experience? How does your extension address these pain points?]
 
+Our Chrome Extension solves the inconvenience, time-consuming nature, and accuracy concerns associated with manually converting currencies while browsing the internet. By seamlessly integrating into the browser, it provides real-time conversion rates, a user-friendly interface, and customization options for preferences. Users can now quickly and accurately convert currencies without leaving their current webpage, significantly enhancing their browsing experience.
+
 ## Target Audience - YY
 
 [Identify the target audience for your Chrome Extension. Who will benefit from using your extension? What are the main characteristics of your target audience?]
@@ -27,6 +29,8 @@ The target audience for our Chrome Extension includes:
 ## Description - TW
 
 [Provide a general description of your Chrome Extension idea in 2-3 sentences. Explain the main purpose and functionality of the extension.]
+
+Our Chrome Extension is a convenient currency converter that seamlessly integrates into your browsing experience. With real-time conversion rates and a user-friendly interface, it allows users to quickly and accurately convert currencies without leaving their current webpage. Whether you're shopping online, planning a trip, or conducting business transactions, our extension streamlines the currency conversion process, enhancing your browsing experience significantly.
 
 ## Selling Points - ALL*1 each
 
