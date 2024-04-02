@@ -1,8 +1,8 @@
-# Chrome Extension Idea: [Title]
+# Chrome Extension Idea: Currency Converter
 
 ## Authors
 
-[Include your names here]
+Akanksha Tripathy, Ruth Tilahun, Tianyi Wu, Yola Yan
 
 ## Problem Statement
 
