@@ -74,7 +74,7 @@ _[Identify potential risks that could affect the development of your Chrome Exte
 
 _[You have about four weeks to work on this project. During the project management, you will use an Agile methodology to manage your tasks. For now, provide your best estimate of the work done each week, from Week 1 to Week 4.]_
 
-_[- Week 1: Task 1, Task 2, Task 3
-- Week 2: Task 4, Task 5, Task 6
-- Week 3: Task 7, Task 8, Task 9
-- Week 4: Task 10, Task 11, Task 12]_
+_[- Week 1: user interface design draft, research on other similar converters
+- Week 2: Web scrapping for a couple of websites
+- Week 3: API integration for exchange 
+- Week 4: combination and testing ]_
