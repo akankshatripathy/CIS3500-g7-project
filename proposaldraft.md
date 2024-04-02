@@ -1,8 +1,8 @@
-# Chrome Extension Idea: [Title]
+# Chrome Extension Idea: Currency Converter
 
 ## Authors
 
-[Include your names here]
+Akanksha Tripathy, Ruth Tilahun, Tianyi Wu, Yola Yan
 
 ## Problem Statement
 
@@ -60,9 +60,9 @@ _[Explain what data you might need to store, and provide some overview of the mo
 
 _[Select a Leader, who will make final decisions on the vision of the project; and a Manager, who will oversee the project management and ensure all team members have everything they need to contribute effectively. List the remaining team members and their roles.]_
 
-- **Leader:** [Name]
-- **Manager:** [Name]
-- **Remaining Team Members:** [Name 1, Name 2, [Name 3]]
+- **Leader:** Tianyi Wu
+- **Manager:** Akanksha Tripathy
+- **Remaining Team Members:** Yola Yan, Ruth Tilahun
 
 _[Provide a brief overview of what each team member will work on. How will you collaborate on this project? What tools or platforms will you use to communicate and share code?]_
 
