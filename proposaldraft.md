@@ -31,7 +31,7 @@ The target audience for our Chrome Extension includes:
 ## Selling Points - ALL*1 each
 
 1. Convenience. Our extension seamlessly integrates into the Chrome browser, allowing users to access the currency converter without having to navigate away from their current webpage.
-2. [Selling Point 2]
+2. Real-time Exchange Rates: Provide users with up-to-date exchange rates sourced from reliable data providers.
 3. [Selling Point 3]
 4. [Selling Point 4]
 5. User-Friendly Interface where our extension offers a simple and intuitive interface that allows users to input their desired currencies quickly and easily.
@@ -48,6 +48,14 @@ _[List user stories that describe the main features of your Chrome Extension. Us
 3. As a student studying abroad, I regularly conduct research online for my academic projects. With the currency converter Extension integrated into my browser, I can effortlessly convert currency values mentioned in research papers and articles without navigating away from the page, facilitating my studies and helping me grasp global economic concepts more efficiently.
 
 4. As a frequent traveler, I often plan my trips and book accommodations and activities online. With the currency converter Chrome Extension seamlessly integrated into my browser, I can convert prices displayed in foreign currencies on travel websites instantly, allowing me to budget and make informed decisions without having to switch between multiple tabs or websites.
+   
+5. As a government agency, I want to monitor currency fluctuations to anticipate potential economic impacts and adjust fiscal policies accordingly to maintain stability in the economy.
+
+6. As a tax consultant, I need accurate currency conversion rates to convert income earned in foreign currencies into the local currency for tax reporting and compliance with tax regulations.
+
+7. As a data scientist, I seek access to APIs providing real-time exchange rates to integrate currency conversion functionality into analytical tools and models for financial forecasting and risk management.
+
+8. As a financial advisor, I require access to historical exchange rate data to analyze currency trends and provide clients with informed recommendations for currency hedging strategies and international investments.
 
 ## Notes - AT
 
