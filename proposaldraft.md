@@ -24,6 +24,8 @@ Akanksha Tripathy, Ruth Tilahun, Tianyi Wu, Yola Yan
 4. [Selling Point 4]
 5. [Selling Point 5]
 
+dropdown menu; bottom; 
+
 ## User Stories
 
 _[List user stories that describe the main features of your Chrome Extension. Use the following template: "As a [user role], I want to [goal] so that [benefit]." Fill in the brackets with the appropriate information. Provide 15 user stories or more.]_
@@ -44,11 +46,13 @@ _[Describe the user interface of your Chrome Extension: What will users see when
 
 _[Describe which Chrome UI/UX elements you will use in your extension, such as pop-ups, context menus, browser actions, omnibox, sidebar, etc.]_
 
+
 ### API, Libraries, and Frameworks
 
 _[- List any APIs, libraries, or frameworks that you plan to use in your Chrome Extension.]_
 _[- Include links to the documentation or other relevant resources.]_
 _[- Explain very briefly how you will use these tools in your project, one sentence per item.]_
+Preferrably API from Google Finance (or Yahoo finance) to get the currency ratio on a given date. These are the most commonly used API and seems to be the most reliable.
 
 ### Data Storage
 
