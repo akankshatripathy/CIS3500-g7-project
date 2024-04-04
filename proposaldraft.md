@@ -67,7 +67,15 @@ _[List user stories that describe the main features of your Chrome Extension. Us
     
 11. As a responsible budgeter, I want to store my previous conversions and transactions so that I can access the previous values and currencies that I was converting between to use for my personal records later.
     
-12. As a merchant of tourist products, I want to monitor changes in global currencies so that I can anticipate the willingness of different types of tourists to purchase my products. 
+12. As a merchant of tourist products, I want to monitor changes in global currencies so that I can anticipate the willingness of different types of tourists to purchase my products.
+
+13. As an online shopper who frequently needs to convert currencies, I want to use a currency converter in my browser that is simple and intuitive, so that I can quickly convert currencies without any confusion.
+
+14. As a power user, I want the currency converter Chrome extension to offer customizable shortcuts or hotkeys, allowing me to perform currency conversions efficiently without relying solely on mouse clicks.
+
+15. As a user who values aesthetics, I want the currency converter Chrome extension to have a visually appealing design with modern UI elements and smooth animations, enhancing my overall browsing experience.
+
+16. As a user, I want the currency converter Chrome extension to offer both dark and light mode themes, allowing me to switch between them based on my preferences and reducing eye strain during late-night browsing sessions.
 
 ## Notes - AT
 
@@ -85,10 +93,14 @@ This extension will also be used to guide our UI improvements, since we will ide
 
 ### User Interface - RT
 
-_[Describe the user interface of your Chrome Extension: What will users see when they interact with your extension? How will they interact with the extension? You can include rough sketches or wireframes to illustrate your design, but name your files `<project id>-ui-1.png`, `<project id>-ui-2.png`, etc.]_
-
-_[Describe which Chrome UI/UX elements you will use in your extension, such as pop-ups, context menus, browser actions, omnibox, sidebar, etc.]_
-
+When users interact with the extension, they will typically see an icon in the Chrome toolbar, representing the currency converter. Upon clicking the icon, a small pop-up window will appear. This window will include:
+- Input fields for the source currency amount and the selection of the source currency.
+- Dropdown menus or search bars for selecting the target currency.
+- Real-time conversion results displayed prominently, showing the converted amount.
+- Additional settings or preferences accessible through a gear icon, allowing users to customize the extension behavior (such as language preferences, decimal precision, etc.).
+- Buttons or shortcuts for quick actions, such as swapping source and target currencies, clearing input fields, accessing historical exchange rate data, and a bookmark for previous conversions saved by the user.
+  
+Users will interact with the extension primarily by inputting the source currency amount and selecting the source and target currencies using dropdown menus or search bars. The conversion results will be updated dynamically as users make changes, providing instant conversions. Additionally, users can customize their experience by adjusting settings or toggling between dark and light mode themes to suit their preferences.
 
 ### API, Libraries, and Frameworks - YY
 
@@ -120,8 +132,18 @@ _[Provide a brief overview of what each team member will work on. How will you c
 
 ### Risks and Mitigation - RT
 
-_[Identify potential risks that could affect the development of your Chrome Extension. How will you mitigate these risks? What is your contingency plan if things don't go as expected?]_
-
+Risks:
+- There may be technical challenges in implementing certain features or integrating with external APIs for currency data.
+- The extension relies on third-party libraries or APIs, which could be subject to changes.
+Mitigation:
+- Break down complex features into smaller tasks and allocate sufficient time for troubleshooting and debugging.
+- Utilize documentation and seek assistance from TAs and our instructor.
+- Choose reliable and well-supported libraries or APIs with clear documentation and a history of stability.
+- Have backup/ alternative libraries in place.
+If things don't go as expected, the contingency plan may involve:
+- Prioritizing the main features and functionalities to ensure that the core functionality of the extension is implemented on time.
+- Considering alternative approaches or simplifications to meet the project deadline while maintaining the core value proposition of the extension.
+  
 ### Milestones and Timeline
 
 _[You have about four weeks to work on this project. During the project management, you will use an Agile methodology to manage your tasks. For now, provide your best estimate of the work done each week, from Week 1 to Week 4.]_
