@@ -135,11 +135,13 @@ _[Provide a brief overview of what each team member will work on. How will you c
 Risks:
 - There may be technical challenges in implementing certain features or integrating with external APIs for currency data.
 - The extension relies on third-party libraries or APIs, which could be subject to changes.
+
 Mitigation:
 - Break down complex features into smaller tasks and allocate sufficient time for troubleshooting and debugging.
 - Utilize documentation and seek assistance from TAs and our instructor.
 - Choose reliable and well-supported libraries or APIs with clear documentation and a history of stability.
 - Have backup/ alternative libraries in place.
+  
 If things don't go as expected, the contingency plan may involve:
 - Prioritizing the main features and functionalities to ensure that the core functionality of the extension is implemented on time.
 - Considering alternative approaches or simplifications to meet the project deadline while maintaining the core value proposition of the extension.
