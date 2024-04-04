@@ -36,8 +36,8 @@ Our Chrome Extension is a convenient currency converter that seamlessly integrat
 
 1. Convenience. Our extension seamlessly integrates into the Chrome browser, allowing users to access the currency converter without having to navigate away from their current webpage.
 2. Real-time Exchange Rates: Provide users with up-to-date exchange rates sourced from reliable data providers.
-3. [Selling Point 3]
-4. [Selling Point 4]
+3. Record keeping: Keep track of recently used currency and previous transactions.
+4. Historical Data: Let users know if exchange rate is up or down compared to historical relative rates.
 5. User-Friendly Interface where our extension offers a simple and intuitive interface that allows users to input their desired currencies quickly and easily.
 
 
@@ -61,9 +61,17 @@ _[List user stories that describe the main features of your Chrome Extension. Us
 
 8. As a financial advisor, I require access to historical exchange rate data to analyze currency trends and provide clients with informed recommendations for currency hedging strategies and international investments.
 
+9. As a student on a budget, I want representations of relatively cheap versus expensive currencies so that I can make responsible shopping and traveling decisions which optimize the value of my money.
+    
+10. As a busy individual, I want efficient conversions that happen in seconds, and allow me to switch between currencies seamlessly so that I can save time while converting currencies and don't interrupt my browsing activities.
+    
+11. As a responsible budgeter, I want to store my previous conversions and transactions so that I can access the previous values and currencies that I was converting between to use for my personal records later.
+    
+12. As a merchant of tourist products, I want to monitor changes in global currencies so that I can anticipate the willingness of different types of tourists to purchase my products. 
+
 ## Notes - AT
 
-_[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
+Since many variations of this Chrome extension already exist, it may be challenging to distinguish our product from others. Since this is a relatively simple product, I think that a potentially unique approach for us could be to make the UI especially compelling and user friendly. We are considering an option where the conversion happens automatically when one highlights a number on the webpage. An even further step would be to do an automatic conversion, the way certain translation Chrome extensions work.
 
 ## References & Inspiration - AT
 
@@ -96,7 +104,7 @@ Explanation: We will use the Google Finance or Yahoo Finance API to fetch histor
 
 ### Data Storage - AT
 
-_[Explain what data you might need to store, and provide some overview of the models—that is, the structure of the data.]_
+We may need to store the last used currencies involved in conversion for ease of the user, especially if they tend to use just a few of the currency options and do not need to scroll through the full dropdown menu. Additionally, it may be useful to store past transactions and conversions, in case a user wants to view the last value they obtained. We may be able to use a simple relational database to store this data in the backend.
 
 ## Project Management
 
